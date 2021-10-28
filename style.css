@@ -3,6 +3,9 @@ body{
     margin: 0;
     padding: 0;
 }
+input[type="button"], button, a{
+    transition: ease-out 250ms;
+}
 /* this is the main div that contains everything */
 .main{
     display: flex;
